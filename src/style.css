@@ -1,0 +1,9 @@
+body{
+  background-image: url(../src//images//grid.png);
+  overflow-x: hidden;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
